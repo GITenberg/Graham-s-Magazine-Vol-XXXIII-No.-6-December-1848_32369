@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '33746'
     url: http://www.gutenberg.org/2009/agents/33746
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32369#Graham-s-Magazine-Vol-XXXIII-No.-6-December-1848
 gutenberg_bookshelf: Graham's Magazine
 gutenberg_issued: '2010-05-14'
 gutenberg_type: Text
